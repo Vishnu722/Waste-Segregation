@@ -1,5 +1,3 @@
-# **Readme File**
-
 ## **AI Based Waste Segregation**
 
 ## **Description**
