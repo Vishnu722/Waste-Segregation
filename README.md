@@ -1,1 +1,2 @@
 # Waste-Segregation
+  AI-Based Garbage Segregation is an intelligent waste management system that uses AI and hardware automation to classify garbage into Biodegradable, Non-Recyclable, Recyclable, and E-Waste categories. It leverages machine learning models trained on Roboflow, integrates with hardware components like an OLED display, stepper motor, servo motor, and IR sensors, and enables efficient and automated garbage sorting.
