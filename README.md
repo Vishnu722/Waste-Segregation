@@ -35,7 +35,6 @@ AI-Based-Garbage-Segregation/
 └── requirements.txt              # Python dependencies
 
 ## **Future Enhancements**
-Future Enhancements
 1. Add support for more waste categories.
 2. Integrate IoT for remote monitoring of bin status.
 3. Improve classification accuracy with larger datasets.
